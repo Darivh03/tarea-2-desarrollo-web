@@ -1,0 +1,13 @@
+# Tienda Online - Bootstrap
+
+**Autor:** Daniel Rivera  
+**Carné:** 12732
+
+Este proyecto es una maqueta visual de una tienda online, utilizando Bootstrap 5.  
+Incluye:
+
+- Carousel de imágenes
+- Ícono de carrito con contador visual
+- Menú lateral de categorías
+- Sección de productos (6 cards responsivas)
+- Footer con datos del autor
